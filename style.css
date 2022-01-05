@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+    color: orange;
+}
+.home1{
+    display:flex;
+    
+}
+.mission1{
+    width: 80%;
+    padding-left: 5%;
+}
+.mission2 img{
+    width: 30%;
+    height: 100%;
+
+}
+.link-button{
+text-decoration-line: none;
+background-color: tomato;
+ background-image: -moz-linear-gradient(orange);
+ padding: 10px 40px;
+ border-radius: 5%;  
+}
