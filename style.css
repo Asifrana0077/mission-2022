@@ -14,6 +14,7 @@ body{
     height: 500px;
 }
 .home7{
+    display: flex;
     width: 100%;
     height: 500px;
     
@@ -21,6 +22,8 @@ body{
 .knowour{
     width: 50%;
     height: 100%;
+    padding-left: 80px;
+  
 }
 .home1{
     display:flex;
@@ -46,7 +49,11 @@ body{
 .imagesme{
     width: 50%;
     height: 100%;
-    background-color: red;
+  
+}
+.imagesme img{
+    width: 50%;
+    margin-left: 120px;
 }
 .scroll{
     margin-top: 70px;
@@ -156,5 +163,8 @@ height: 100%;
 }
 .center{
     text-align: center;
+}
+.orange{
+    color: orangered;
 }
 
